@@ -3,7 +3,7 @@ Mantel is a polished clean theme for Plank dock.
 
 
 ### Screenshots
-![alt text](https://github.com/shaz13/Mantel/blob/master/Mantel1.png)
+![alt text](https://github.com/shaz13/Mantel/blob/master/Mantelb.png)
 ![alt text](https://github.com/shaz13/Mantel/blob/master/Mantel2.png)
 
 ### How to install 
