@@ -1,6 +1,11 @@
 # Mantel
 Mantel is a polished clean theme for Plank dock.
 
+
+### Screenshots
+![alt text](https://github.com/shaz13/Mantel/blob/master/Mante1.png)
+![alt text](https://github.com/shaz13/Mantel/blob/master/Mantel2.png)
+
 ### How to install 
 1. Download or git clone this repo
 2. Copy the Mantel-master folder to .local/share/plnnk/themes
