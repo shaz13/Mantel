@@ -1,5 +1,5 @@
 # Mantel
-Mantel is a polished and clean theme for Plank dock.
+Mantel is a black polished and clean theme for Plank dock.
 
 
 ### Screenshots
@@ -16,4 +16,5 @@ Mantel is a polished and clean theme for Plank dock.
 
 Feel free to contribute and submit your issues and contributions
 
+Tags: Plank Dock Themes, Black Plank Dock Theme, Material Black Theme
 
