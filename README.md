@@ -14,7 +14,7 @@ Mantel is a black polished and clean theme for Plank dock.
 2. Type `plank --preferences`
 3. Choose Mantel 
 
-Feel free to contribute and submit your issues and contributions
+Feel free to submit your issues and contributions
 
 Tags: Plank Dock Themes, Black Plank Dock Theme, Material Black Theme
 
